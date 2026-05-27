@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 3 Mr D",
+  "description": "A sleek glassmorphic media player app featuring Room-backed poster caching, customized folders overview, settings utility tools, and customizable video grid/list view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
